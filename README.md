@@ -7,9 +7,9 @@ This project demonstrates an automatic dubbing pipeline that converts the audio 
 The `ArabicDubbing` class automates the following steps:
 
 1. **Extract Audio**: Extracts audio from the provided video file.
-2. **Transcribe Audio**: Converts the extracted audio into text using a Speech-to-Text (STT) model.
-3. **Translate Text**: Translates the transcribed text from English to Arabic using a translation model.
-4. **Text-to-Speech**: Converts the translated Arabic text into speech using a Text-to-Speech (TTS) model.
+2. **Transcribe Audio**: Converts the extracted audio into text using a Speech-to-Text (whisper) model.
+3. **Translate Text**: Translates the transcribed text from English to Arabic using a Llama3 model.
+4. **Text-to-Speech**: Converts the translated Arabic text into speech using a Text-to-Speech (XTTS) model.
 5. **Combine Audio Segments**: Combines all generated audio segments into a single audio file.
 
 
