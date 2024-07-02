@@ -30,7 +30,7 @@ The project consists of the following files:
 ArabicDubbingDemo/
 │
 ├── arabic_dubbing.py          # Implementation of the ArabicDubbing class
-├── demo.py                    # Script to demonstrate the usage of the class
+├── main.py                    # Script to demonstrate the usage of the class
 ├── requirements.txt           # List of required dependencies
 └── README.md                  # Project documentation
 
