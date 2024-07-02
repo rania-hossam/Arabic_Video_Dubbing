@@ -12,6 +12,16 @@ The `ArabicDubbing` class automates the following steps:
 4. **Text-to-Speech**: Converts the translated Arabic text into speech using a Text-to-Speech (TTS) model.
 5. **Combine Audio Segments**: Combines all generated audio segments into a single audio file.
 
+
+
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/jZLYdPW68gg/maxresdefault.jpg)](https://youtu.be/jZLYdPW68gg)
+
+Click the image above to watch the demo video on YouTube.
+
+
+
 ## Project Structure
 
 The project consists of the following files:
@@ -23,3 +33,6 @@ ArabicDubbingDemo/
 ├── demo.py                    # Script to demonstrate the usage of the class
 ├── requirements.txt           # List of required dependencies
 └── README.md                  # Project documentation
+
+
+
